@@ -1,2 +1,0 @@
-# aiohttp-profiler
-aiohttp profiler
